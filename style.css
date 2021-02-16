@@ -1,0 +1,17 @@
+#sort-button{
+    display:none;
+}
+#with_commas{
+background-color:lightcyan;
+border-radius:50px;
+border-color:black;
+
+
+}
+#without_commas{
+    background-color:coral;
+    border-radius:50px;
+    border-color:black;
+    
+    
+    }
